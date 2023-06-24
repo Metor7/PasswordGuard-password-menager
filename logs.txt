@@ -1,0 +1,59 @@
+INFO - 2023-06-24 20:33:03 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:33:14 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:37:25 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:37:39 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:37:40 - UpdatesMenager: App version on server: <!DOCTYPE html>.
+INFO - 2023-06-24 20:44:04 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:44:05 - UpdatesMenager: App version on server: <!DOCTYPE html>.
+INFO - 2023-06-24 20:44:31 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:44:31 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:44:42 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:44:42 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:45:18 - UpdatesMenager: Your installed app version: 0.0.1
+12333.
+INFO - 2023-06-24 20:45:19 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:45:19 - text
+INFO - 2023-06-24 20:50:34 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:50:35 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:50:35 - text
+INFO - 2023-06-24 20:50:55 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:51:07 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:51:07 - UpdatesMenager: App version on server: 0.
+INFO - 2023-06-24 20:51:07 - text
+INFO - 2023-06-24 20:51:24 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:51:24 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:51:24 - text
+INFO - 2023-06-24 20:51:41 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:51:41 - UpdatesMenager: App version on server: 0.0.1.
+INFO - 2023-06-24 20:51:41 - text
+INFO - 2023-06-24 20:52:10 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:52:10 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:52:10 - text
+INFO - 2023-06-24 20:52:34 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:52:34 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:52:34 - text
+INFO - 2023-06-24 20:52:49 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:52:49 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:52:49 - text
+INFO - 2023-06-24 20:53:06 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:53:06 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:53:06 - text
+INFO - 2023-06-24 20:55:24 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:55:24 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:55:24 - text
+INFO - 2023-06-24 20:55:41 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 20:55:42 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 20:55:42 - text
+INFO - 2023-06-24 21:06:26 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 21:06:26 - UpdatesMenager: App version on server: 0.0.1
+12333
+INFO - 2023-06-24 21:06:27 - text
+INFO - 2023-06-24 21:06:38 - UpdatesMenager: Your installed app version: 0.0.1.
+INFO - 2023-06-24 21:06:39 - UpdatesMenager: App version on server: 0.0.1
+INFO - 2023-06-24 21:06:39 - text
