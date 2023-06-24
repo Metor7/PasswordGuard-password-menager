@@ -1,3 +1,0 @@
-INFO - 2023-06-24 20:33:03 - UpdatesMenager: Your installed app version: 0.0.1.
-INFO - 2023-06-24 20:33:14 - UpdatesMenager: Your installed app version: 0.0.1
-12333.
